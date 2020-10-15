@@ -1,5 +1,6 @@
 #  Scary stories!
 
+![Scary Movies](https://images-na.ssl-images-amazon.com/images/I/515SY9Y9YDL._SX316_BO1,204,203,200_.jpg)
 ---
 **Please list some:** 
 
@@ -11,6 +12,8 @@
 
 ...aaaand
 
-- Dracula - any version
+- **Dracula** - any version
 
-![Dracula]
+![Dracula](https://upload.wikimedia.org/wikipedia/en/7/70/Bram_Stoker%27s_Draula_%281992_film%29.jpg)
+
+> _add any movie you feel needs to be on this list_
