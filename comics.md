@@ -51,17 +51,5 @@ Movies about [_superheros_][hero] require an advanced level of special effects.
 
 ...etc
 
-<style>
- body {
-     background-color: white;
-     color: darkblue; 
- }
- h1, h2, h3 {
-   color: red;
- }
- li {
-     color: purple;
- }
-</style>
 
 
